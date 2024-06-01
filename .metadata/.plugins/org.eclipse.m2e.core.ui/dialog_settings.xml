@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/creedx66/Desktop/web/learning-springboot3-jpa-main"/>
 			<item value="/home/guilherme/Desktop/webservices"/>
 		</list>
 		<list key="projectNameTemplate">
