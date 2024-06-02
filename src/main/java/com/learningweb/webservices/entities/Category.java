@@ -75,11 +75,5 @@ public class Category implements Serializable {
 		Category other = (Category) obj;
 		return Objects.equals(id, other.id);
 	}
-
-	
-
-	
-	
-	
 	
 }
