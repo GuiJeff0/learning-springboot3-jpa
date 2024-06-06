@@ -39,8 +39,11 @@ Apart from the project entities.
 • Complete implementation of CRUD operations for system entities.
 
 • **Create:** Creation of new records.
+
 • **Retrieve:** Retrieval of existing records.
+
 • **Update:** Update of existing records.
+
 • **Delete:** Deletion of existing records.
     
 ### Exception Handling
